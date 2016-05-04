@@ -1,3 +1,3 @@
 # Blog-Reader-In-Swift
 
-![gif](http://i.imgur.com/UNKKNQl.gifv)
+http://i.imgur.com/UNKKNQl.gifv
